@@ -72,6 +72,18 @@ export const projects = [
 
 export const certificates = [
   {
+    title: "Data Analytics Internship",
+    issuer: "Labmentix Pvt. Ltd.",
+    date: "Jul 2026",
+    img: "/certs/cert-labmentix-internship.jpg",
+  },
+  {
+    title: "Letter of Recommendation",
+    issuer: "Labmentix Pvt. Ltd.",
+    date: "Jul 2026",
+    img: "/certs/cert-labmentix-recommendation.jpg",
+  },
+  {
     title: "Deep Learning with PyTorch, Keras and TensorFlow",
     issuer: "IBM · Coursera",
     date: "Feb 2026",
